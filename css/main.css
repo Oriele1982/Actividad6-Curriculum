@@ -20,19 +20,25 @@ body{
 .col-md-8{
 	width: 80%;
 	text-align: center;
-	margin-top: 100px;
+	border-bottom-style: double;
+}
+.img-perfil{
+	width: 89%;
+	background-color: #FFFFFF;
+	text-align: center;
+	margin-top: 70px;
 	border-bottom-style: double;
 }
 
 img{
 	width: 12%;
 	position: relative;
-	bottom: 60px;
 	border-radius: 50%;
 }
 
 h2{
-	margin: 0 0 30px 0;
+	margin: 0;
+	padding-bottom: 30px;
 }
 
 span{
@@ -47,7 +53,7 @@ span{
 }
 
 h3{
-	color: #EC7063;
+	color:  #6C3483 ;
 	margin: 15px 0 0 25px;
 }
 
@@ -71,20 +77,142 @@ h5{
 	display: inline-block;
 	margin-left: 40px;
 	text-align: right;
-	background-color: #E5E8E8;
+	background-color: #FADBD8;
 	padding: 15px;
 }
 
 .where-year{
-	width: 20%;
+	width: 15%;
 	display: inline-block;
-	margin-left: 25px;
+	margin: 0 0 0 25px;
+	
 }
 
-.
+.rol{
+	width: 65%;
+	display: inline-block;
+	margin-left: 10px;
+	text-align: right;
+}
 
+.conoc-list li{
+	list-style: none;
+	padding: 7px 0 7px 5px;
+	margin-right: 10px;
+}
 
+.aptitud1{ 
+	width: 70%;
+	margin-top: 7px;
+	background-color: #EC7063;
+}
 
+.aptitud2{ 
+	width: 65%;
+	margin-top: 7px;
+	background-color: #EC7063;
+}
 
+.aptitud3{ 
+	width: 50%;
+	margin-top: 7px;
+	background-color: #EC7063;
+}
+
+.aptitud4{ 
+	width: 55%;
+	margin-top: 7px;
+	background-color: #EC7063;
+}
+
+.aptitud5{ 
+	width: 80%;
+	margin-top: 7px;
+	background-color: #EC7063;
+}
+
+.aptitud6{ 
+	width: 95%;
+	margin-top: 7px;
+	background-color: #EC7063;
+}
+
+.esp{
+	width: 50%;
+	display: inline-block;
+	margin: 0; 
+}
+
+.eng{
+	width: 90%;
+	display: inline-block;
+	border-top: 1px solid #E5E8E8;
+	padding: 15px 0 0 0;
+
+}
+.star1{
+	list-style-type: none;
+	display: inline-block;
+}
+
+.fas.fa-star{
+	width: 20px;
+	background-color: #EC7063;
+}
+
+.far.fa-star{
+	width: 10%;
+
+	color: #EC7063;
+}
+
+.hob{
+	text-align: center;
+	padding-bottom: 3px;
+}
+
+.hob1{
+	width: 30%;
+	background-color:  #E74C3C; 
+}
+
+.hob2{
+	width: 30%;
+	background-color: #A569BD;
+}
+
+.hob3{
+	width: 30%;
+	background-color: #E74C3C; 
+}
+
+.hob4{
+	width: 30%;
+	background-color: #A569BD;
+}
+
+.hob5{
+	width: 30%;
+	background-color: #E74C3C; 
+}
+
+.hob6{
+	width: 30%;
+	background-color: #A569BD;
+}
+
+.hob7{
+	width: 30%;
+	background-color: #E74C3C; 
+}
+
+.hob8{
+	width: 30%;
+	background-color: #A569BD;
+}
+
+.footer{
+	border-top: 1px solid #E5E8E8;
+}
 
 
